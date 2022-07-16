@@ -1,0 +1,234 @@
+<mjml>
+  <mj-head>
+    <mj-title>EasyDMR Feature Update</mj-title>
+    <mj-preview>Newsletter</mj-preview>
+    <mj-attributes>
+      <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700" />
+      <mj-all font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-all>
+      <mj-text font-weight="400" font-size="16px" color="#000000" line-height="24px" font-family="Roboto, Helvetica, Arial, sans-serif"></mj-text>
+      <mj-accordion border="none" padding="1px" />
+      <mj-accordion-element icon-wrapped-url="https://ccartuse.sirv.com/Images/ArrowDown.png" icon-unwrapped-url="https://ccartuse.sirv.com/Images/ArrowUp.png" icon-height="24px" icon-width="24px" />
+      <mj-accordion-title font-family="Roboto, Open Sans, Helvetica, Arial, sans-serif" background-color="#fff" color="#031017" padding="15px" font-size="18px" />
+      <mj-accordion-text font-family="Open Sans, Helvetica, Arial, sans-serif" background-color="#fafafa" padding="15px" color="#505050" font-size="14px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      .body-section {
+        -webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+        -moz-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+        box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .text-link {
+        color: #5e6ebf
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .footer-link {
+        color: #888888
+      }
+    </mj-style>
+    <mj-style>
+      .keyPointsRow {}
+
+      .keyPointsNumber {
+        vertical-align: top;
+        height: 40px;
+        padding: 15px 20px 15px 0;
+        align-text: right;
+        color: #e91e63;
+        font-size: 30px;
+        line-height: 30px;
+        font-weight: 900;
+      }
+
+      .keyPointsText {
+        vertical-align: top;
+        padding: 15px 10px 15px 0;
+        line-height: 18px;
+        height: 40px;
+        color: #606264;
+      }
+
+      .price {
+        vertical-align: middle;
+        height: 40px;
+        padding: 0px 10px 5px 0;
+        align-text: left;
+        color: #e91e63;
+        font-size: 30px;
+        line-height: 30px;
+        font-weight: 500;
+        background-color: transparent;
+        width: 100%
+      }
+
+      .priceDescription {
+        vertical-align: middle;
+        height: 40px;
+        padding: 0px 10px 5px 0;
+        align-text: left;
+        color: #e91e63;
+        font-size: 16px;
+        line-height: 30px;
+        font-weight: 500;
+        background-color: #transparent;
+        width: 70%;
+
+      }
+
+        a:link {
+          text-decoration: none;
+        }
+
+        a:visited {
+          text-decoration: none;
+        }
+
+        a:hover {
+          text-decoration: none;
+        }
+
+        a:active {
+          text-decoration: none;
+        }
+
+      .dmrButton {
+
+      }
+      a{
+          text-decoration:none;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#dfe0e5" width="600px">
+    <mj-section full-width="full-width" background-color="#040B4F" padding-bottom="0px" padding-top="0px">
+      <mj-column width="100%">
+        <mj-image src="https://ccartuse.sirv.com/Images/EmailHeaderManageDriversBlueBackground2.png" padding-top="0px" padding-bottom="0px" alt="" />
+      </mj-column>
+    </mj-section>
+
+
+    <mj-wrapper padding-top="0" padding-bottom="0" css-class="body-section">
+      <mj-section background-color="#ffffff" padding="15px 0px 0px 10px">
+        <mj-column width="100%">
+          <mj-text align="center" font-size="20px" font-weight="900" color="#e91e63">EasyDMR Calculates Driver Reimbursement</mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#ffffff" padding="0px">
+        <mj-column>
+          <mj-table align="center" font-size="14px" width="400px" font-family="Roboto, Open Sans, Helvetica, Arial, sans-serif" container-background-color="#ffffff">
+
+            <tr class="keyPointsRow">
+              <td align="right" class="keyPointsNumber">1</td>
+              <td class="keyPointsText">EasyDMR calculates an accurate driver mileage reimbursement rate based on driver vehicle and zip code
+                using a IRS-compliant FAVR methodology.</td>
+            </tr>
+            <tr class="keyPointsRow">
+              <td align="right" class="keyPointsNumber">2</td>
+              <td class="keyPointsText">Drivers upload their documents (driver's license, registration, insurance) and enter their vehicle information themselves (using their own login).</td>
+            </tr>
+            <tr class="keyPointsRow">
+              <td align="right" class="keyPointsNumber">3</td>
+              <td class="keyPointsText">Drivers can sign the driver agreement online (if you use a driver agreement).</td>
+            </tr>
+            <tr class="keyPointsRow">
+              <td align="right" class="keyPointsNumber">4</td>
+              <td class="keyPointsText">View driver's documents and their reimbursement rate. Driver documents
+                can be downloaded in PDF format.</td>
+            </tr>
+
+            <tr class="keyPointsRow">
+              <td align="right" class="keyPointsNumber">5</td>
+              <td class="keyPointsText">Save on your reimbursement costs while providing the drivers a fair rate.</td>
+            </tr>
+          </mj-table>
+        </mj-column>
+      </mj-section>
+
+
+      <mj-section background-color="#ffffff" padding="0px">
+        <mj-column>
+          <mj-divider border-color="#e91e63" border-style="solid" border-width="1px" padding-left="100px" padding-right="100px" padding-bottom="20px" padding-top="20px"></mj-divider>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#ffffff" padding="0px">
+        <mj-column>
+          <mj-table align="center" font-size="14px" width="400px" font-family="Roboto, Open Sans, Helvetica, Arial, sans-serif" container-background-color="#ffffff">
+            <tr>
+              <td class="price" align="middle" style="padding-left:0px;font-weight:900">$19<span style="font-size:16px;font-weight:400"> /store/month (first year)</td>
+            </tr>
+            <tr">
+              <td class="price" align="middle" style="padding-left:0px;font-weight:400;color:#A0A0A0;font-size:22px">$38<span style="font-size:16px;font-weight:400"> /store/month (thereafter)</td>
+            </tr>
+          </mj-table>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#ffffff" padding="0px">
+        <mj-column>
+          <mj-divider border-color="#e91e63" border-style="solid" border-width="1px" padding-left="100px" padding-right="100px" padding-bottom="20px" padding-top="20px"></mj-divider>
+        </mj-column>
+      </mj-section>
+
+
+      <mj-section background-color="#ffffff">
+        <mj-column width="100%">
+          <mj-image src="https://ccartuse.sirv.com/Images/DMR_075.png" width="300px" alt="" />
+          <mj-text align="center" font-size="14px" font-weight="500" color="#e91e63">View Reimbursement Rates</mj-text>
+          <mj-divider border-color="#e91e63" border-style="solid" border-width="1px" padding-left="100px" padding-right="100px" padding-bottom="20px" padding-top="20px"></mj-divider>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#ffffff">
+        <mj-column width="100%">
+          <mj-image src="https://ccartuse.sirv.com/Images/DMR_100.png" width="300px" alt="" />
+          <mj-text align="center" font-size="14px" font-weight="500" color="#e91e63">View Driver Documents</mj-text>
+          <mj-divider border-color="#e91e63" border-style="solid" border-width="1px" padding-left="100px" padding-right="100px" padding-bottom="20px" padding-top="20px"></mj-divider>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#ffffff">
+        <mj-column width="100%">
+          <mj-image src="https://ccartuse.sirv.com/Images/DMR_107.png" width="300px" alt="" />
+          <mj-text align="center" font-size="14px" font-weight="500" color="#e91e63">Driver Enters Vehicle Information</mj-text>
+          <mj-divider border-color="#e91e63" border-style="solid" border-width="1px" padding-left="100px" padding-right="100px" padding-bottom="20px" padding-top="20px"></mj-divider>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#ffffff">
+        <mj-column width="100%">
+          <mj-image src="https://ccartuse.sirv.com/Images/DMR_105.png" width="300px" alt="" />
+          <mj-text align="center" font-size="14px" font-weight="500" color="#e91e63">Driver Uploads Documents</mj-text>
+          <mj-divider border-color="#e91e63" border-style="solid" border-width="1px" padding-left="100px" padding-right="100px" padding-bottom="20px" padding-top="20px"></mj-divider>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#ffffff">
+        <mj-column width="100%">
+          <mj-image src="https://ccartuse.sirv.com/Images/DMR_097.png" width="300px" alt="" />
+          <mj-text align="center" font-size="14px" font-weight="500" color="#e91e63">Driver Signs Agreement Online</mj-text>
+          <mj-divider border-color="#e91e63" border-style="solid" border-width="1px" padding-left="100px" padding-right="100px" padding-bottom="20px" padding-top="20px"></mj-divider>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#ffffff">
+        <mj-column width="100%" padding="0">
+          <mj-button background-color="#e91e63" height="30px" align="center" color="#ffffff" font-family="Roboto" font-size="17px" font-weight="100" href="https://easydmr.com/Public/OwnerInformation" width="300px"> MORE INFORMATION PAGE </mj-button>
+          <mj-button background-color="#e91e63" height="30px" align="center" color="#ffffff" font-family="Roboto" font-size="17px" font-weight="100" href="https://easydmr.com" width="300px"> SIGN UP PAGE </mj-button>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#ffffff">
+        <mj-column width="100%" padding="0">
+          <mj-text color="#445566" font-size="11px" align="center" line-height="16px"> &copy; EasyDMR </mj-text>
+        </mj-column>
+      </mj-section>
+
+    </mj-wrapper>
+    <mj-wrapper full-width="full-width">
+    </mj-wrapper>
+  </mj-body>
+</mjml>

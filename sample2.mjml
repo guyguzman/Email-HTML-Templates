@@ -1,0 +1,124 @@
+<mjml>
+  <mj-head>
+    <mj-title>Deliver Driver Reimbursement</mj-title>
+    <!-- <mj-preview>Newsletter</mj-preview> -->
+    <mj-attributes>
+      <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700" />
+      <mj-all font-family="Roboto, Open Sans, Helvetica, Arial, sans-serif"></mj-all>
+      <mj-text font-weight="400" font-size="16px" color="#000000" line-height="24px" font-family="Roboto, Helvetica, Arial, sans-serif"></mj-text>
+      <mj-accordion border="none" padding="1px" />
+      <mj-accordion-element icon-wrapped-url="https://ccartuse.sirv.com/Images/ArrowDown.png" icon-unwrapped-url="https://ccartuse.sirv.com/Images/ArrowUp.png" icon-height="24px" icon-width="24px" />
+      <mj-accordion-title font-family="Roboto, Open Sans, Helvetica, Arial, sans-serif" background-color="#fff" color="#031017" padding="15px" font-size="18px" />
+      <mj-accordion-text font-family="Open Sans, Helvetica, Arial, sans-serif" background-color="#fafafa" padding="15px" color="#505050" font-size="14px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      .body-section {
+        -webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.95);
+        -moz-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.95);
+        box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.95);
+        width: 600px;
+        margin: 0px;
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .main-body {
+        margin: 0px;
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .text-link {
+        color: #5e6ebf
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .footer-link {
+        color: #888888
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .bigNumber {
+        vertical-align: middle;
+        height: 40px;
+        padding: 15px 20px 15px 0;
+        align-text: right;
+        color: #e91e63;
+        font-size: 30px;
+        line-height: 30px;
+        font-weight: 900;
+      }
+
+      .bigNumberText {
+        vertical-align: middle;
+        padding: 15px 10px 15px 0;
+        line-height: 18px;
+        height: 40px;
+        color: #606264;
+        font-size: 16px;
+      }
+
+      .bigPrice {
+        vertical-align: middle;
+        height: 40px;
+        padding: 0px 10px 5px 0;
+        align-text: left;
+        color: #e91e63;
+        font-size: 30px;
+        line-height: 30px;
+        font-weight: 500;
+        background-color: transparent;
+        width: 100%;
+      }
+
+.mytable{
+   font-family:Roboto, Open Sans, Helvetica, Arial, sans-serif 
+}
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#dfe0e5" width="600px">
+
+    <mj-wrapper padding="0">
+      <mj-section background-color="#040B4F" padding-bottom="0">
+        <mj-column width="100%" background-color="#040B4F">
+          <mj-image src="https://ccartuse.sirv.com/Images/EmailHeaderManageDriversBlueBackground2.png" padding-top="0px" padding-left="0px" padding-right="0px" padding-bottom="0px" alt="" />
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+
+    <mj-wrapper padding-top="0" padding-bottom="0" background-color="#f8fafc">
+
+      <mj-section padding="0px 0px 0px 0px">
+        <mj-column width="600px">
+          <mj-text align="center">Hello</mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0px 0px 0px 0px">
+        <mj-column width="600px">
+          <mj-raw>
+            <table class="mytable">
+              <tr>
+                <td style="width:600px;text-align:center;color:#000000;font-size:16px;font-weight:500"> Hello</td>
+              </tr>
+            </table>
+          </mj-raw>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0px 0px 0px 0px">
+        <mj-column width="600px">
+          <mj-raw>
+            <table  class="mytable">
+              <tr>
+                <td style="width:600px;text-align:center;color:#e91e63;font-size:20px;font-weight:500">EasyDMR Demo (no credit card)</td>
+              </tr>
+            </table>
+          </mj-raw>
+        </mj-column>
+      </mj-section>
+
+
+    </mj-wrapper>
+  </mj-body>
+</mjml>

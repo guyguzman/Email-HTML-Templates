@@ -1,0 +1,125 @@
+<mjml>
+  <mj-head>
+    <mj-title>Deliver Driver Reimbursement</mj-title>
+    <!-- <mj-preview>Newsletter</mj-preview> -->
+    <mj-attributes>
+      <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700" />
+      <mj-font name="Roboto Mono" href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200;400" />
+      <mj-all font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-all>
+      <mj-text font-weight="400" font-size="12px" color="#000000" line-height="24px" font-family="Roboto, Helvetica, Arial, sans-serif"></mj-text>
+      <mj-accordion border="none" padding="1px" />
+      <mj-accordion-element icon-wrapped-url="https://ccartuse.sirv.com/Images/ArrowDown.png" icon-unwrapped-url="https://ccartuse.sirv.com/Images/ArrowUp.png" icon-height="24px" icon-width="24px" />
+      <mj-accordion-title font-family="Roboto, Open Sans, Helvetica, Arial, sans-serif" background-color="#fff" color="#031017" padding="15px" font-size="18px" />
+      <mj-accordion-text font-family="Open Sans, Helvetica, Arial, sans-serif" background-color="#fafafa" padding="15px" color="#505050" font-size="14px" />
+      <mj-class name="green" color="#ff0000" font-size="40px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      .body-section {
+        -webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+        -moz-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+        box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .text-link {
+        color: #5e6ebf
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .footer-link {
+        color: #888888
+      }
+    </mj-style>
+
+
+    <mj-style inline="inline">
+      .gasItem {
+        width: 100px;
+        font-size: 22px;
+        line-height: 28px;
+        color: #404040;
+        font-size: 22px;
+        text-align: center;
+        font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+      }
+    </mj-style>
+
+    <mj-style inline="inline">
+      .gasTitle {
+        font-size: 20px;
+        line-height: 22px;
+        color: #ff5252;
+        padding-bottom: 22px;
+        text-align: center;
+        font-weight: bold;
+        line-height: 24px;
+        font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+        width: 100px;
+      }
+    </mj-style>
+
+    </mj-style>
+    <mj-style inline="inline">
+      .body-section {
+        -webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+        -moz-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+        box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .text-link {
+        color: #5e6ebf
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .footer-link {
+        color: #888888
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .learn {
+        color: #606060;
+        font-size: 14px;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#dfe0e5">
+
+    <mj-wrapper padding-top="0" padding-bottom="0" css-class="body-section">
+
+      <mj-section background-color="#f8fafc" padding-top="0" padding-bottom="0">
+        <mj-column width="100%" background-color="#f8fafc">
+          <mj-image src="https://ccartuse.sirv.com/Dakota/Remembering.jpg" padding-top="0px" padding-left="0px" padding-right="0px" padding-bottom="0px" alt="" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#f8fafc" padding="45px 0px 0px 10px">
+        <mj-column width="100%">
+        <mj-text align="left" line-height="20px" font-size="20px" font-weight="600" color="#ff0000">
+        Important Links</mj-text>
+          <mj-text align="left" line-height="20px" font-size="16px" font-weight="400" color="#404040">
+ <div class='learn'>https://brave.com/ (Brave Browser (uses Chrome engine but removed the ads))</div>
+<div class='learn'>https://code.visualstudio.com/download (Visual Studio Code)</div>
+<div class='learn'>https://codepen.io (quick CSS and JavaScript testing)</div>
+<div class='learn'>https://css-tricks.com (great CSS resource site)</div>
+<div class='learn'>https://pexels.com (free online images and videos)</div>
+<div class='learn'>https://pixlr.com (free online video editor)</div>
+<div class='learn'>https://sirv.com (free, and paid, cloud image storage)</div>
+<div class='learn'>https://stock.adobe.com</div>
+<div class='learn'>https://web.dev/learn/css/ (learning CSS)</div>
+<div class='learn'>https://www.learn-html.org/ (learning HTML and CSS)</div>
+<div class='learn'>https://www.learn-js.org/ (learning JavaScript)</div>
+<div class='learn'>https://www.videvo.net (free online videos)</div>
+
+
+          </mj-text>
+
+<mj-text padding="30px"></mj-text>
+        </mj-column>
+      </mj-section>
+
+
+    </mj-wrapper>
+
+  </mj-body>
+</mjml>

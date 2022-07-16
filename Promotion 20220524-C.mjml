@@ -1,0 +1,166 @@
+<mjml>
+  <mj-head>
+    <mj-title>Deliver Driver Reimbursement</mj-title>
+    <!-- <mj-preview>Newsletter</mj-preview> -->
+    <mj-attributes>
+      <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700" />
+      <mj-all font-family="'Roboto', Helvetica, Arial, sans-serif"></mj-all>
+      <mj-text font-weight="400" font-size="16px" color="#000000" line-height="24px" font-family="Roboto, Helvetica, Arial, sans-serif"></mj-text>
+      <mj-class name="imageDesc" align="center" font-size="24px" font-weight="500" color="#ff5252" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      .body-section {
+        -webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+        -moz-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+        box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .text-link {
+        color: #5e6ebf
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .footer-link {
+        color: #888888
+      }
+    </mj-style>
+    <mj-style>
+      .keyPointsNumber {
+        vertical-align: top;
+        height: 40px;
+        padding: 15px 20px 15px 0;
+        align-text: right;
+        color: #ff5252;
+        font-size: 30px;
+        line-height: 30px;
+        font-weight: 900;
+      }
+
+      .keyPointsText {
+        vertical-align: top;
+        padding: 15px 10px 15px 0;
+        line-height: 18px;
+        height: 40px;
+        color: #606264;
+      }
+
+      .price {
+        vertical-align: middle;
+        height: 40px;
+        padding: 0px 10px 5px 0;
+        align-text: left;
+        color: #ff5252;
+        font-size: 30px;
+        line-height: 30px;
+        font-weight: 500;
+        background-color: transparent;
+        width: 100%
+      }
+
+      .priceDescription {
+        vertical-align: middle;
+        height: 40px;
+        padding: 0px 10px 5px 0;
+        align-text: left;
+        color: #ff5252;
+        font-size: 16px;
+        line-height: 30px;
+        font-weight: 500;
+        background-color: #transparent;
+        width: 70%;
+
+      }
+
+      a:link {
+        text-decoration: none;
+      }
+
+      a:visited {
+        text-decoration: none;
+      }
+
+      a:hover {
+        text-decoration: none;
+      }
+
+      a:active {
+        text-decoration: none;
+      }
+
+      .dmrButton {}
+
+      a {
+        text-decoration: none;
+      }
+
+      .emailTitle {
+        width: 600px;
+        text-align: center;
+        color: #ff5252;
+        font-size: 30px;
+        font-weight: 700;
+      }
+
+      .bigNumber {
+        vertical-align: top;
+        height: 40px;
+        padding: 15px 20px 15px 0;
+        align-text: right;
+        color: #ff5252;
+        font-size: 30px;
+        line-height: 30px;
+        font-weight: 900;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", Oxygen, Cantarell, sans-serif;
+              }
+
+      .bigNumberText {
+        vertical-align: top;
+        padding: 15px 10px 15px 0;
+        line-height: 18px;
+        height: 40px;
+        color: #606264;
+        font-size: 22px;
+        line-height: 26px;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", Oxygen, Cantarell, sans-serif;
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#dfe0e5" width="600px;">
+
+    <mj-wrapper padding-top="0" padding-bottom="0" background-color="#f8fafc" css-class="body-section">
+
+      <mj-section background-color="#040B4F" padding-top="0" padding-bottom="0">
+        <mj-column width="100%" background-color="#dfe0e5">
+          <mj-image src="https://ccartuse.sirv.com/Images/ScooterBlueGadientBackgroundLogo.png" padding-top="0px" padding-left="0px" padding-right="0px" padding-bottom="0px" alt="" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="15px 0px 0px 0px">
+        <mj-column width="100%" padding="0">
+          <mj-table align="center">
+            <tr>
+              <td class="emailTitle">50% Discount First Year</td>
+            </tr>
+          </mj-table>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="10px">
+        <mj-column width="100%">
+          <mj-text padding="20px" align="center">
+            <mj-table align="center">             <tr>
+                <td align="right" class="bigNumber">1</td>
+                <td class="bigNumberText" align="left">EasyDMR calculates an accurate driver mileage reimbursement rate based on driver vehicle and zip code
+                  using an IRS-compliant FAVR methodology.</td>
+              </tr>
+          </mj-table>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+    </mj-wrapper>
+
+  </mj-body>
+</mjml>

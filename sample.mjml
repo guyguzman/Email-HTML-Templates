@@ -1,0 +1,84 @@
+<mjml>
+  <mj-head>
+    <mj-title>EasyDMR Feature Update</mj-title>
+    <mj-preview>Pre-header Text</mj-preview>
+    <mj-attributes>
+      <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700" />
+      <mj-all font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-all>
+      <mj-text font-weight="400" font-size="16px" color="#000000" line-height="24px" font-family="Roboto, Helvetica, Arial, sans-serif"></mj-text>
+    </mj-attributes>
+    <mj-style inline="inline">
+      .body-section {
+        -webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+        -moz-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+        box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .text-link {
+        color: #5e6ebf
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .footer-link {
+        color: #888888
+      }
+    </mj-style>
+    <mj-style>
+      .center-text div {
+        color: #ff0000 !important;
+        text-decoration: none !important;
+        width: 100% !important;
+        text-align: center !important;
+        font-size: 30px !important;
+        padding: 0 !important;
+        background-color: #0000ff !important;
+      }
+    </mj-style>
+
+  </mj-head>
+  <mj-body background-color="#dfe0e5" width="600px">
+    <mj-section background-color="#040B4F" padding-bottom="0">
+      <mj-column width="100%">
+        <mj-image src="https://ccartuse.sirv.com/Images/EmailHeaderManageDriversBlueBackground2.png" alt="" />
+      </mj-column>
+    </mj-section>
+    
+
+    <mj-section background-color="#ff0000" padding="0px">
+      <mj-column background-color="#00ff00" >
+            <mj-raw padding="0px">
+              <table style="color:black;background-color:#a0a0a0">
+                <tr>
+                  <td style="width:300px;text-align:center">1</td>
+                  <td style="width:300px;text-align:center">2</td>
+                </tr>
+              </table>
+              <mj-raw>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ddffdd" padding="0">
+      <mj-column>
+        <mj-text padding="0">
+          <table style="padding:0;background-color:#ff0000">
+            <tr style="padding:0;background-color:#ff0000">
+              <td style="text-align:center;width:300px;padding:0;background-color:#ffcccc">Using table</td>
+            </tr>
+          </table>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text padding="0">
+          <table style="padding:0;background-color:#ff0000">
+            <tr style="padding:0;background-color:#ff0000">
+              <td style="text-align:center;width:300px;padding:0;background-color:#ffcccc">Using table</td>
+            </tr>
+          </table>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+  </mj-body>
+</mjml>

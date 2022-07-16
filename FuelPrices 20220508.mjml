@@ -1,0 +1,191 @@
+<mjml>
+  <mj-head>
+    <mj-title>Deliver Driver Reimbursement</mj-title>
+    <!-- <mj-preview>Newsletter</mj-preview> -->
+    <mj-attributes>
+      <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700" />
+      <mj-font name="Roboto Mono" href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200;400" />
+      <mj-all font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-all>
+      <mj-text font-weight="400" font-size="12px" color="#000000" line-height="24px" font-family="Roboto, Helvetica, Arial, sans-serif"></mj-text>
+      <mj-accordion border="none" padding="1px" />
+      <mj-accordion-element icon-wrapped-url="https://ccartuse.sirv.com/Images/ArrowDown.png" icon-unwrapped-url="https://ccartuse.sirv.com/Images/ArrowUp.png" icon-height="24px" icon-width="24px" />
+      <mj-accordion-title font-family="Roboto, Open Sans, Helvetica, Arial, sans-serif" background-color="#fff" color="#031017" padding="15px" font-size="18px" />
+      <mj-accordion-text font-family="Open Sans, Helvetica, Arial, sans-serif" background-color="#fafafa" padding="15px" color="#505050" font-size="14px" />
+      <mj-class name="green" color="#ff0000" font-size="40px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      .body-section {
+        -webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+        -moz-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+        box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .text-link {
+        color: #5e6ebf
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .footer-link {
+        color: #888888
+      }
+    </mj-style>
+
+
+    <mj-style inline="inline">
+      .gasItem {
+        width: 100px;
+        font-size: 22px;
+        line-height: 28px;
+        color: #404040;
+        font-size: 22px;
+        text-align: center;
+        <!-- font-family: Helvetica, Arial, sans-serif; -->
+      }
+    </mj-style>
+
+   <mj-style inline="inline">
+      .gasTitle {      
+        font-size: 16px;
+        line-height: 22px;
+        color: #ff5252;
+        padding-bottom: 22px;
+        text-align: center;
+        font-weight: 500;
+        line-height: 24px;
+        <!-- font-family: Helvetica, Arial, sans-serif; -->
+        width:100px;
+      }
+    </mj-style>
+
+    </mj-style>
+    <mj-style inline="inline">
+      .body-section {
+        -webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+        -moz-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+        box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .text-link {
+        color: #5e6ebf
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .footer-link {
+        color: #888888
+      }
+    </mj-style>
+
+  </mj-head>
+  <mj-body background-color="#dfe0e5" width="600px">
+    <mj-section background-color="#f8fafc" padding-top="0" padding-bottom="0">
+      <mj-column width="100%" background-color="#f8fafc">
+        <mj-image src="https://ccartuse.sirv.com/Images/ScooterBlueGadientBackgroundLogo_20220808.png" padding-top="0px" padding-left="0px" padding-right="0px" padding-bottom="0px" alt="" />
+      </mj-column>
+    </mj-section>
+    <mj-wrapper padding-top="0" padding-bottom="0" css-class="body-section">
+      <mj-section background-color="#f8fafc" padding="45px 0px 0px 10px">
+        <mj-column width="100%">
+          <mj-text align="center" line-height="30px" font-size="30px" font-weight="900" color="#ff5252">Fuel Prices</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0px 0px 0px 0px" background-color="#f8fafc">
+        <mj-column width="200px" background-color="#f8fafc">
+          <mj-text padding="0px" align="center" font-size="16px" font-weight="500" color="#ff5252">
+            <table style="width:100%;background-color:#f8fafc">
+              <tr>
+                <td style="text-align:center;font-size:20px;font-weight:900;color:#808080;">May 9, 2022</td>
+              </tr>
+              <tr>
+                <td style="text-align:center;color:#808080;font-size:14px">Regular Grade</td>
+              </tr>
+            </table>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#f8fafc" padding="30px 0px 0px 0px">
+        <mj-column width="400px">
+          <mj-text align="center">
+            <table style="width:100%;">
+              <tr style="">
+                <td class="gasTitle">State</td>
+                <td class="gasTitle">Last Week</td>
+                <td class="gasTitle">This Week</td>
+                <td class="gasTitle">+/- cents</td>
+              </tr>
+              
+<tr><td class="gasItem">AK</td><td class="gasItem">4.651</td><td class="gasItem">4.664</td><td class="gasItem"style="color: #ff5252">+01.3</td> </tr>
+<tr><td class="gasItem">AL</td><td class="gasItem">3.832</td><td class="gasItem">3.853</td><td class="gasItem"style="color: #ff5252">+02.1</td> </tr>
+<tr><td class="gasItem">AR</td><td class="gasItem">3.744</td><td class="gasItem">3.797</td><td class="gasItem"style="color: #ff5252">+05.3</td> </tr>
+<tr><td class="gasItem">AZ</td><td class="gasItem">4.553</td><td class="gasItem">4.568</td><td class="gasItem"style="color: #ff5252">+01.5</td> </tr>
+<tr><td class="gasItem">CA</td><td class="gasItem">5.688</td><td class="gasItem">5.741</td><td class="gasItem"style="color: #ff5252">+05.3</td> </tr>
+<tr><td class="gasItem">CO</td><td class="gasItem">4.020</td><td class="gasItem">4.027</td><td class="gasItem"style="color: #ff5252">+00.7</td> </tr>
+<tr><td class="gasItem">CT</td><td class="gasItem">4.001</td><td class="gasItem">4.131</td><td class="gasItem"style="color: #ff5252">+13.0</td> </tr>
+<tr><td class="gasItem">DC</td><td class="gasItem">4.370</td><td class="gasItem">4.515</td><td class="gasItem"style="color: #ff5252">+14.5</td> </tr>
+<tr><td class="gasItem">DE</td><td class="gasItem">4.005</td><td class="gasItem">4.247</td><td class="gasItem"style="color: #ff5252">+24.2</td> </tr>
+<tr><td class="gasItem">FL</td><td class="gasItem">4.103</td><td class="gasItem">4.182</td><td class="gasItem"style="color: #ff5252">+07.9</td> </tr>
+<tr><td class="gasItem">GA</td><td class="gasItem">3.717</td><td class="gasItem">3.720</td><td class="gasItem"style="color: #ff5252">+00.3</td> </tr>
+<tr><td class="gasItem">HI</td><td class="gasItem">5.237</td><td class="gasItem">5.250</td><td class="gasItem"style="color: #ff5252">+01.3</td> </tr>
+<tr><td class="gasItem">IA</td><td class="gasItem">3.853</td><td class="gasItem">3.891</td><td class="gasItem"style="color: #ff5252">+03.8</td> </tr>
+<tr><td class="gasItem">ID</td><td class="gasItem">4.438</td><td class="gasItem">4.444</td><td class="gasItem"style="color: #ff5252">+00.6</td> </tr>
+<tr><td class="gasItem">IL</td><td class="gasItem">4.405</td><td class="gasItem">4.414</td><td class="gasItem"style="color: #ff5252">+00.9</td> </tr>
+<tr><td class="gasItem">IN</td><td class="gasItem">3.918</td><td class="gasItem">4.039</td><td class="gasItem"style="color: #ff5252">+12.1</td> </tr>
+<tr><td class="gasItem">KS</td><td class="gasItem">3.773</td><td class="gasItem">3.787</td><td class="gasItem"style="color: #ff5252">+01.4</td> </tr>
+<tr><td class="gasItem">KY</td><td class="gasItem">3.799</td><td class="gasItem">3.829</td><td class="gasItem"style="color: #ff5252">+03.0</td> </tr>
+<tr><td class="gasItem">LA</td><td class="gasItem">3.856</td><td class="gasItem">3.871</td><td class="gasItem"style="color: #ff5252">+01.5</td> </tr>
+<tr><td class="gasItem">MA</td><td class="gasItem">4.132</td><td class="gasItem">4.213</td><td class="gasItem"style="color: #ff5252">+08.1</td> </tr>
+<tr><td class="gasItem">MD</td><td class="gasItem">4.050</td><td class="gasItem">4.260</td><td class="gasItem"style="color: #ff5252">+21.0</td> </tr>
+<tr><td class="gasItem">ME</td><td class="gasItem">4.119</td><td class="gasItem">4.231</td><td class="gasItem"style="color: #ff5252">+11.2</td> </tr>
+<tr><td class="gasItem">MI</td><td class="gasItem">3.939</td><td class="gasItem">4.060</td><td class="gasItem"style="color: #ff5252">+12.1</td> </tr>
+<tr><td class="gasItem">MN</td><td class="gasItem">3.880</td><td class="gasItem">3.899</td><td class="gasItem"style="color: #ff5252">+01.9</td> </tr>
+<tr><td class="gasItem">MO</td><td class="gasItem">3.758</td><td class="gasItem">3.772</td><td class="gasItem"style="color: #ff5252">+01.4</td> </tr>
+<tr><td class="gasItem">MS</td><td class="gasItem">3.783</td><td class="gasItem">3.801</td><td class="gasItem"style="color: #ff5252">+01.8</td> </tr>
+<tr><td class="gasItem">MT</td><td class="gasItem">4.086</td><td class="gasItem">4.156</td><td class="gasItem"style="color: #ff5252">+07.0</td> </tr>
+<tr><td class="gasItem">NC</td><td class="gasItem">3.825</td><td class="gasItem">3.941</td><td class="gasItem"style="color: #ff5252">+11.6</td> </tr>
+<tr><td class="gasItem">ND</td><td class="gasItem">3.906</td><td class="gasItem">3.955</td><td class="gasItem"style="color: #ff5252">+04.9</td> </tr>
+<tr><td class="gasItem">NE</td><td class="gasItem">3.893</td><td class="gasItem">3.923</td><td class="gasItem"style="color: #ff5252">+03.0</td> </tr>
+<tr><td class="gasItem">NH</td><td class="gasItem">4.039</td><td class="gasItem">4.145</td><td class="gasItem"style="color: #ff5252">+10.6</td> </tr>
+<tr><td class="gasItem">NJ</td><td class="gasItem">4.102</td><td class="gasItem">4.225</td><td class="gasItem"style="color: #ff5252">+12.3</td> </tr>
+<tr><td class="gasItem">NM</td><td class="gasItem">4.109</td><td class="gasItem">4.104</td><td class="gasItem"style="color: #20d651">-00.5</td> </tr>
+<tr><td class="gasItem">NV</td><td class="gasItem">5.079</td><td class="gasItem">5.086</td><td class="gasItem"style="color: #ff5252">+00.7</td> </tr>
+<tr><td class="gasItem">NY</td><td class="gasItem">4.234</td><td class="gasItem">4.348</td><td class="gasItem"style="color: #ff5252">+11.4</td> </tr>
+<tr><td class="gasItem">OH</td><td class="gasItem">3.762</td><td class="gasItem">3.949</td><td class="gasItem"style="color: #ff5252">+18.7</td> </tr>
+<tr><td class="gasItem">OK</td><td class="gasItem">3.781</td><td class="gasItem">3.801</td><td class="gasItem"style="color: #ff5252">+02.0</td> </tr>
+<tr><td class="gasItem">OR</td><td class="gasItem">4.665</td><td class="gasItem">4.686</td><td class="gasItem"style="color: #ff5252">+02.1</td> </tr>
+<tr><td class="gasItem">PA</td><td class="gasItem">4.208</td><td class="gasItem">4.350</td><td class="gasItem"style="color: #ff5252">+14.2</td> </tr>
+<tr><td class="gasItem">RI</td><td class="gasItem">4.098</td><td class="gasItem">4.186</td><td class="gasItem"style="color: #ff5252">+08.8</td> </tr>
+<tr><td class="gasItem">SC</td><td class="gasItem">3.788</td><td class="gasItem">3.851</td><td class="gasItem"style="color: #ff5252">+06.3</td> </tr>
+<tr><td class="gasItem">SD</td><td class="gasItem">3.963</td><td class="gasItem">3.999</td><td class="gasItem"style="color: #ff5252">+03.6</td> </tr>
+<tr><td class="gasItem">TN</td><td class="gasItem">3.852</td><td class="gasItem">3.901</td><td class="gasItem"style="color: #ff5252">+04.9</td> </tr>
+<tr><td class="gasItem">TX</td><td class="gasItem">3.780</td><td class="gasItem">3.863</td><td class="gasItem"style="color: #ff5252">+08.3</td> </tr>
+<tr><td class="gasItem">UT</td><td class="gasItem">4.505</td><td class="gasItem">4.478</td><td class="gasItem"style="color: #20d651">-02.7</td> </tr>
+<tr><td class="gasItem">VA</td><td class="gasItem">3.957</td><td class="gasItem">4.053</td><td class="gasItem"style="color: #ff5252">+09.6</td> </tr>
+<tr><td class="gasItem">VT</td><td class="gasItem">4.137</td><td class="gasItem">4.263</td><td class="gasItem"style="color: #ff5252">+12.6</td> </tr>
+<tr><td class="gasItem">WA</td><td class="gasItem">4.687</td><td class="gasItem">4.717</td><td class="gasItem"style="color: #ff5252">+03.0</td> </tr>
+<tr><td class="gasItem">WI</td><td class="gasItem">3.852</td><td class="gasItem">3.934</td><td class="gasItem"style="color: #ff5252">+08.2</td> </tr>
+<tr><td class="gasItem">WV</td><td class="gasItem">3.941</td><td class="gasItem">3.971</td><td class="gasItem"style="color: #ff5252">+03.0</td> </tr>
+<tr><td class="gasItem">WY</td><td class="gasItem">4.127</td><td class="gasItem">4.145</td><td class="gasItem"style="color: #ff5252">+01.8</td> </tr>
+
+
+
+            </table>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#f8fafc" padding="0px">
+        <mj-column>
+          <mj-divider border-color="#ff5252" border-style="solid" border-width="1px" padding-left="100px" padding-right="100px" padding-bottom="20px" padding-top="20px"></mj-divider>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#f8fafc">
+        <mj-column width="100%" padding="0">
+          <mj-text color="#445566" font-size="24px" align="center" line-height="24px"> &copy; EasyDMR </mj-text>
+          <mj-text color="#445566" font-size="24px" align="center" line-height="24px"> www.easydmr.com </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-wrapper full-width="full-width">
+    </mj-wrapper>
+  </mj-body>
+</mjml>

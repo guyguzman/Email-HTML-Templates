@@ -1,0 +1,174 @@
+<mjml>
+  <mj-head>
+    <mj-title>Deliver Driver Reimbursement</mj-title>
+    <!-- <mj-preview>Newsletter</mj-preview> -->
+    <mj-attributes>
+      <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700" />
+      <mj-all font-family="'Roboto', Helvetica, Arial, sans-serif"></mj-all>
+      <mj-text font-weight="400" font-size="16px" color="#000000" line-height="24px" font-family="Roboto, Helvetica, Arial, sans-serif"></mj-text>
+      <mj-class name="imageDesc" align="center" font-size="24px" font-weight="500" color="#ff5252" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      .body-section {
+        -webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+        -moz-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+        box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .text-link {
+        color: #5e6ebf
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .footer-link {
+        color: #888888
+      }
+    </mj-style>
+    <mj-style>
+      .keyPointsNumber {
+        vertical-align: top;
+        height: 40px;
+        padding: 15px 20px 15px 0;
+        align-text: right;
+        color: #ff5252;
+        font-size: 30px;
+        line-height: 30px;
+        font-weight: 900;
+      }
+
+      .keyPointsText {
+        vertical-align: top;
+        padding: 15px 10px 15px 0;
+        line-height: 18px;
+        height: 40px;
+        color: #606264;
+      }
+
+      .price {
+        vertical-align: middle;
+        height: 40px;
+        padding: 0px 10px 5px 0;
+        align-text: left;
+        color: #ff5252;
+        font-size: 30px;
+        line-height: 30px;
+        font-weight: 500;
+        background-color: transparent;
+        width: 100%
+      }
+
+      .priceDescription {
+        vertical-align: middle;
+        height: 40px;
+        padding: 0px 10px 5px 0;
+        align-text: left;
+        color: #ff5252;
+        font-size: 16px;
+        line-height: 30px;
+        font-weight: 500;
+        background-color: #transparent;
+        width: 70%;
+
+      }
+
+      a:link {
+        text-decoration: none;
+      }
+
+      a:visited {
+        text-decoration: none;
+      }
+
+      a:hover {
+        text-decoration: none;
+      }
+
+      a:active {
+        text-decoration: none;
+      }
+
+      .dmrButton {}
+
+      a {
+        text-decoration: none;
+      }
+
+      .emailTitle {
+        width: 600px;
+        text-align: center;
+        color: #ff5252;
+        font-size: 26px;
+        line-height: 30px;
+        font-weight: 700;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", Oxygen, Cantarell, sans-serif;
+      }
+
+      .bigNumber {
+        vertical-align: top;
+        height: 40px;
+        padding: 15px 20px 15px 0;
+        align-text: right;
+        color: #ff5252;
+        font-size: 30px;
+        line-height: 30px;
+        font-weight: 900;
+        width: 30px;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", Oxygen, Cantarell, sans-serif;
+      }
+
+      .bigNumberText {
+        vertical-align: top;
+        padding: 15px 10px 15px 0;
+        line-height: 18px;
+        height: 40px;
+        color: #606264;
+        font-size: 22px;
+        line-height: 26px;
+        text-align: left;
+        width: 550px;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", Oxygen, Cantarell, sans-serif;
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#dfe0e5">
+
+    <mj-wrapper padding-top="0" padding-bottom="0" background-color="#f8fafc" css-class="body-section">
+
+      <mj-section background-color="#040B4F" padding-top="0" padding-bottom="0">
+        <mj-column width="100%" background-color="#dfe0e5">
+          <mj-image src="https://ccartuse.sirv.com/Images/ScooterBlueGadientBackgroundLogoSmall.png" padding-top="0px" padding-left="0px" padding-right="0px" padding-bottom="0px" alt="" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="15px 0px 0px 0px">
+        <mj-column width="600px" padding="0">
+          <mj-text align="left">
+</br></br>
+Chelsey,
+</br></br>
+Thanks for signing up with EasyDMR. If you have any questions or issues, contact me directly. Feel free to call, text or email.
+</br></br>
+Guy</br>
+310-946-8410<br>
+<a href="mailto:support@easydmr.com">support@easydmr.com</a>
+</br></br>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+
+
+
+
+      <mj-section>
+        <mj-column width="100%" padding="0">
+          <mj-text color="#445566" font-size="24px" align="center" line-height="24px"><a href="https://www.easydmr.com">www.easydmr.com</a> </mj-text>
+        </mj-column>
+      </mj-section>
+
+    </mj-wrapper>
+
+  </mj-body>
+</mjml>

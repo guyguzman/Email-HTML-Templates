@@ -1,0 +1,452 @@
+<mjml>
+  <mj-head>
+    <mj-title>Deliver Driver Reimbursement</mj-title>
+    <!-- <mj-preview>Newsletter</mj-preview> -->
+    <mj-attributes>
+      <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700" />
+      <mj-font name="Roboto Mono" href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200;400" />
+      <mj-all font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-all>
+      <mj-text font-weight="400" font-size="12px" color="#000000" line-height="24px" font-family="Roboto, Helvetica, Arial, sans-serif"></mj-text>
+      <mj-accordion border="none" padding="1px" />
+      <mj-accordion-element icon-wrapped-url="https://ccartuse.sirv.com/Images/ArrowDown.png" icon-unwrapped-url="https://ccartuse.sirv.com/Images/ArrowUp.png" icon-height="24px" icon-width="24px" />
+      <mj-accordion-title font-family="Roboto, Open Sans, Helvetica, Arial, sans-serif" background-color="#fff" color="#031017" padding="15px" font-size="18px" />
+      <mj-accordion-text font-family="Open Sans, Helvetica, Arial, sans-serif" background-color="#fafafa" padding="15px" color="#505050" font-size="14px" />
+      <mj-class name="green" color="#ff0000" font-size="40px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      .body-section {
+        -webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+        -moz-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+        box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .text-link {
+        color: #5e6ebf
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .footer-link {
+        color: #888888
+      }
+    </mj-style>
+
+
+    <mj-style inline="inline">
+      .gasItem {
+        width: 100px;
+        font-size: 22px;
+        line-height: 28px;
+        color: #404040;
+        font-size: 22px;
+        text-align: center;
+        font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+      }
+    </mj-style>
+
+    <mj-style inline="inline">
+      .gasTitle {
+        font-size: 20px;
+        line-height: 22px;
+        color: #ff5252;
+        padding-bottom: 22px;
+        text-align: center;
+        font-weight: bold;
+        line-height: 24px;
+        font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+        width: 100px;
+      }
+    </mj-style>
+
+    </mj-style>
+    <mj-style inline="inline">
+      .body-section {
+        -webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+        -moz-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+        box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .text-link {
+        color: #5e6ebf
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .footer-link {
+        color: #888888
+      }
+    </mj-style>
+
+  </mj-head>
+  <mj-body background-color="#dfe0e5">
+
+    <mj-wrapper padding-top="0" padding-bottom="0" css-class="body-section">
+
+      <mj-section background-color="#f8fafc" padding-top="0" padding-bottom="0">
+        <mj-column width="100%" background-color="#f8fafc">
+          <mj-image src="https://ccartuse.sirv.com/Images/ScooterBlueGadientBackgroundLogo_20220808.png" padding-top="0px" padding-left="0px" padding-right="0px" padding-bottom="0px" alt="" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#f8fafc" padding="45px 0px 0px 10px">
+        <mj-column width="100%">
+          <mj-text align="center" line-height="30px" font-size="30px" font-weight="900" color="#ff5252">Fuel Prices</mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0px 0px 0px 0px" background-color="#f8fafc">
+        <mj-column width="200px" background-color="#f8fafc">
+          <mj-text padding="0px" align="center" font-size="16px" font-weight="500" color="#ff5252">
+            <table style="width:100%;background-color:#f8fafc">
+              <tr>
+                <td style="text-align:center;font-size:20px;font-weight:900;color:#808080;">May 16, 2022</td>
+              </tr>
+              <tr>
+                <td style="text-align:center;color:#808080;font-size:14px">Regular Grade</td>
+              </tr>
+            </table>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#f8fafc" padding="30px 0px 0px 0px">
+        <mj-column width="400px">
+          <mj-text align="center">
+            <table style="margin-left:auto;margin-right:auto;">
+              <tr style="">
+                <td class="gasTitle">State</td>
+                <td class="gasTitle">Last Week</td>
+                <td class="gasTitle">This Week</td>
+                <td class="gasTitle">+/- cents</td>
+              </tr>
+
+              <tr>
+                <td class="gasItem">AK</td>
+                <td class="gasItem">4.722</td>
+                <td class="gasItem">4.868</td>
+                <td class="gasItem" style="color: #ff5252">+14.6</td>
+              </tr>
+              <tr>
+                <td class="gasItem">AL</td>
+                <td class="gasItem">4.014</td>
+                <td class="gasItem">4.194</td>
+                <td class="gasItem" style="color: #ff5252">+18.0</td>
+              </tr>
+              <tr>
+                <td class="gasItem">AR</td>
+                <td class="gasItem">3.917</td>
+                <td class="gasItem">4.050</td>
+                <td class="gasItem" style="color: #ff5252">+13.3</td>
+              </tr>
+              <tr>
+                <td class="gasItem">AZ</td>
+                <td class="gasItem">4.661</td>
+                <td class="gasItem">4.753</td>
+                <td class="gasItem" style="color: #ff5252">+09.2</td>
+              </tr>
+              <tr>
+                <td class="gasItem">CA</td>
+                <td class="gasItem">5.821</td>
+                <td class="gasItem">5.964</td>
+                <td class="gasItem" style="color: #ff5252">+14.3</td>
+              </tr>
+              <tr>
+                <td class="gasItem">CO</td>
+                <td class="gasItem">4.057</td>
+                <td class="gasItem">4.119</td>
+                <td class="gasItem" style="color: #ff5252">+06.2</td>
+              </tr>
+              <tr>
+                <td class="gasItem">CT</td>
+                <td class="gasItem">4.306</td>
+                <td class="gasItem">4.513</td>
+                <td class="gasItem" style="color: #ff5252">+20.7</td>
+              </tr>
+              <tr>
+                <td class="gasItem">DC</td>
+                <td class="gasItem">4.677</td>
+                <td class="gasItem">4.815</td>
+                <td class="gasItem" style="color: #ff5252">+13.8</td>
+              </tr>
+              <tr>
+                <td class="gasItem">DE</td>
+                <td class="gasItem">4.394</td>
+                <td class="gasItem">4.446</td>
+                <td class="gasItem" style="color: #ff5252">+05.2</td>
+              </tr>
+              <tr>
+                <td class="gasItem">FL</td>
+                <td class="gasItem">4.204</td>
+                <td class="gasItem">4.494</td>
+                <td class="gasItem" style="color: #ff5252">+29.0</td>
+              </tr>
+              <tr>
+                <td class="gasItem">GA</td>
+                <td class="gasItem">3.835</td>
+                <td class="gasItem">3.985</td>
+                <td class="gasItem" style="color: #ff5252">+15.0</td>
+              </tr>
+              <tr>
+                <td class="gasItem">HI</td>
+                <td class="gasItem">5.287</td>
+                <td class="gasItem">5.317</td>
+                <td class="gasItem" style="color: #ff5252">+03.0</td>
+              </tr>
+              <tr>
+                <td class="gasItem">IA</td>
+                <td class="gasItem">3.987</td>
+                <td class="gasItem">4.118</td>
+                <td class="gasItem" style="color: #ff5252">+13.1</td>
+              </tr>
+              <tr>
+                <td class="gasItem">ID</td>
+                <td class="gasItem">4.479</td>
+                <td class="gasItem">4.509</td>
+                <td class="gasItem" style="color: #ff5252">+03.0</td>
+              </tr>
+              <tr>
+                <td class="gasItem">IL</td>
+                <td class="gasItem">4.591</td>
+                <td class="gasItem">4.823</td>
+                <td class="gasItem" style="color: #ff5252">+23.2</td>
+              </tr>
+              <tr>
+                <td class="gasItem">IN</td>
+                <td class="gasItem">4.222</td>
+                <td class="gasItem">4.413</td>
+                <td class="gasItem" style="color: #ff5252">+19.1</td>
+              </tr>
+              <tr>
+                <td class="gasItem">KS</td>
+                <td class="gasItem">3.943</td>
+                <td class="gasItem">3.988</td>
+                <td class="gasItem" style="color: #ff5252">+04.5</td>
+              </tr>
+              <tr>
+                <td class="gasItem">KY</td>
+                <td class="gasItem">4.009</td>
+                <td class="gasItem">4.235</td>
+                <td class="gasItem" style="color: #ff5252">+22.6</td>
+              </tr>
+              <tr>
+                <td class="gasItem">LA</td>
+                <td class="gasItem">4.001</td>
+                <td class="gasItem">4.135</td>
+                <td class="gasItem" style="color: #ff5252">+13.4</td>
+              </tr>
+              <tr>
+                <td class="gasItem">MA</td>
+                <td class="gasItem">4.381</td>
+                <td class="gasItem">4.580</td>
+                <td class="gasItem" style="color: #ff5252">+19.9</td>
+              </tr>
+              <tr>
+                <td class="gasItem">MD</td>
+                <td class="gasItem">4.398</td>
+                <td class="gasItem">4.459</td>
+                <td class="gasItem" style="color: #ff5252">+06.1</td>
+              </tr>
+              <tr>
+                <td class="gasItem">ME</td>
+                <td class="gasItem">4.354</td>
+                <td class="gasItem">4.548</td>
+                <td class="gasItem" style="color: #ff5252">+19.4</td>
+              </tr>
+              <tr>
+                <td class="gasItem">MI</td>
+                <td class="gasItem">4.324</td>
+                <td class="gasItem">4.381</td>
+                <td class="gasItem" style="color: #ff5252">+05.7</td>
+              </tr>
+              <tr>
+                <td class="gasItem">MN</td>
+                <td class="gasItem">4.013</td>
+                <td class="gasItem">4.102</td>
+                <td class="gasItem" style="color: #ff5252">+08.9</td>
+              </tr>
+              <tr>
+                <td class="gasItem">MO</td>
+                <td class="gasItem">3.891</td>
+                <td class="gasItem">4.045</td>
+                <td class="gasItem" style="color: #ff5252">+15.4</td>
+              </tr>
+              <tr>
+                <td class="gasItem">MS</td>
+                <td class="gasItem">3.929</td>
+                <td class="gasItem">4.067</td>
+                <td class="gasItem" style="color: #ff5252">+13.8</td>
+              </tr>
+              <tr>
+                <td class="gasItem">MT</td>
+                <td class="gasItem">4.207</td>
+                <td class="gasItem">4.274</td>
+                <td class="gasItem" style="color: #ff5252">+06.7</td>
+              </tr>
+              <tr>
+                <td class="gasItem">NC</td>
+                <td class="gasItem">4.091</td>
+                <td class="gasItem">4.239</td>
+                <td class="gasItem" style="color: #ff5252">+14.8</td>
+              </tr>
+              <tr>
+                <td class="gasItem">ND</td>
+                <td class="gasItem">4.009</td>
+                <td class="gasItem">4.116</td>
+                <td class="gasItem" style="color: #ff5252">+10.7</td>
+              </tr>
+              <tr>
+                <td class="gasItem">NE</td>
+                <td class="gasItem">3.984</td>
+                <td class="gasItem">4.097</td>
+                <td class="gasItem" style="color: #ff5252">+11.3</td>
+              </tr>
+              <tr>
+                <td class="gasItem">NH</td>
+                <td class="gasItem">4.289</td>
+                <td class="gasItem">4.501</td>
+                <td class="gasItem" style="color: #ff5252">+21.2</td>
+              </tr>
+              <tr>
+                <td class="gasItem">NJ</td>
+                <td class="gasItem">4.454</td>
+                <td class="gasItem">4.585</td>
+                <td class="gasItem" style="color: #ff5252">+13.1</td>
+              </tr>
+              <tr>
+                <td class="gasItem">NM</td>
+                <td class="gasItem">4.129</td>
+                <td class="gasItem">4.289</td>
+                <td class="gasItem" style="color: #ff5252">+16.0</td>
+              </tr>
+              <tr>
+                <td class="gasItem">NV</td>
+                <td class="gasItem">5.117</td>
+                <td class="gasItem">5.174</td>
+                <td class="gasItem" style="color: #ff5252">+05.7</td>
+              </tr>
+              <tr>
+                <td class="gasItem">NY</td>
+                <td class="gasItem">4.509</td>
+                <td class="gasItem">4.746</td>
+                <td class="gasItem" style="color: #ff5252">+23.7</td>
+              </tr>
+              <tr>
+                <td class="gasItem">OH</td>
+                <td class="gasItem">4.091</td>
+                <td class="gasItem">4.289</td>
+                <td class="gasItem" style="color: #ff5252">+19.8</td>
+              </tr>
+              <tr>
+                <td class="gasItem">OK</td>
+                <td class="gasItem">3.910</td>
+                <td class="gasItem">4.001</td>
+                <td class="gasItem" style="color: #ff5252">+09.1</td>
+              </tr>
+              <tr>
+                <td class="gasItem">OR</td>
+                <td class="gasItem">4.806</td>
+                <td class="gasItem">4.981</td>
+                <td class="gasItem" style="color: #ff5252">+17.5</td>
+              </tr>
+              <tr>
+                <td class="gasItem">PA</td>
+                <td class="gasItem">4.501</td>
+                <td class="gasItem">4.613</td>
+                <td class="gasItem" style="color: #ff5252">+11.2</td>
+              </tr>
+              <tr>
+                <td class="gasItem">RI</td>
+                <td class="gasItem">4.361</td>
+                <td class="gasItem">4.551</td>
+                <td class="gasItem" style="color: #ff5252">+19.0</td>
+              </tr>
+              <tr>
+                <td class="gasItem">SC</td>
+                <td class="gasItem">4.008</td>
+                <td class="gasItem">4.190</td>
+                <td class="gasItem" style="color: #ff5252">+18.2</td>
+              </tr>
+              <tr>
+                <td class="gasItem">SD</td>
+                <td class="gasItem">4.041</td>
+                <td class="gasItem">4.144</td>
+                <td class="gasItem" style="color: #ff5252">+10.3</td>
+              </tr>
+              <tr>
+                <td class="gasItem">TN</td>
+                <td class="gasItem">4.064</td>
+                <td class="gasItem">4.195</td>
+                <td class="gasItem" style="color: #ff5252">+13.1</td>
+              </tr>
+              <tr>
+                <td class="gasItem">TX</td>
+                <td class="gasItem">3.982</td>
+                <td class="gasItem">4.142</td>
+                <td class="gasItem" style="color: #ff5252">+16.0</td>
+              </tr>
+              <tr>
+                <td class="gasItem">UT</td>
+                <td class="gasItem">4.499</td>
+                <td class="gasItem">4.477</td>
+                <td class="gasItem" style="color: #20d651">-02.2</td>
+              </tr>
+              <tr>
+                <td class="gasItem">VA</td>
+                <td class="gasItem">4.210</td>
+                <td class="gasItem">4.303</td>
+                <td class="gasItem" style="color: #ff5252">+09.3</td>
+              </tr>
+              <tr>
+                <td class="gasItem">VT</td>
+                <td class="gasItem">4.381</td>
+                <td class="gasItem">4.564</td>
+                <td class="gasItem" style="color: #ff5252">+18.3</td>
+              </tr>
+              <tr>
+                <td class="gasItem">WA</td>
+                <td class="gasItem">4.820</td>
+                <td class="gasItem">5.007</td>
+                <td class="gasItem" style="color: #ff5252">+18.7</td>
+              </tr>
+              <tr>
+                <td class="gasItem">WI</td>
+                <td class="gasItem">4.098</td>
+                <td class="gasItem">4.219</td>
+                <td class="gasItem" style="color: #ff5252">+12.1</td>
+              </tr>
+              <tr>
+                <td class="gasItem">WV</td>
+                <td class="gasItem">4.130</td>
+                <td class="gasItem">4.276</td>
+                <td class="gasItem" style="color: #ff5252">+14.6</td>
+              </tr>
+              <tr>
+                <td class="gasItem">WY</td>
+                <td class="gasItem">4.197</td>
+                <td class="gasItem">4.244</td>
+                <td class="gasItem" style="color: #ff5252">+04.7</td>
+              </tr>
+
+
+
+
+            </table>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#f8fafc" padding="0px">
+        <mj-column>
+          <mj-divider border-color="#ff5252" border-style="solid" border-width="1px" padding-left="100px" padding-right="100px" padding-bottom="20px" padding-top="20px"></mj-divider>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#f8fafc">
+        <mj-column width="100%" padding="0">
+          <mj-text color="#445566" font-size="24px" align="center" line-height="24px"> &copy; EasyDMR </mj-text>
+          <mj-text color="#445566" font-size="24px" align="center" line-height="24px"> www.easydmr.com </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-wrapper full-width="full-width">
+    </mj-wrapper>
+  </mj-body>
+</mjml>

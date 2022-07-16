@@ -1,0 +1,115 @@
+<input name="ScreenWidth" hidden />
+<input name="ScreenHeight" hidden />
+<input name="ViewportWidth" hidden />
+<input name="ViewportHeight" hidden />
+<input name="IPAddress" hidden />
+<input name="IPCity" hidden />
+<input name="IPState" hidden />
+<input name="IPPostal" hidden />
+<input name="IPOrg" hidden />
+<input name="IPLongitude" hidden />
+<input name="IPLatitude" hidden />
+
+<script>
+    $('document').ready(function() {
+        new WOW().init();
+
+        var latitude = 51.51;
+        var longitude = -.128;
+
+        $.getJSON("https://ipinfo.io?token=dd17c16d21d2c4",
+            function(response) {
+
+                setElementValue("ScreenWidth", window.screen.width);
+                setElementValue("ScreenHeight", window.screen.height);
+                setElementValue("ViewportWidth", window.innerWidth);
+                setElementValue("ViewportHeight", window.innerHeight);
+
+                var city = response.city;
+                var state = response.region;
+                var ipAddress = response.ip;
+                var org = response.org;
+                var postal = response.postal;
+
+                var latlon = response.loc;
+                var locarray = latlon.split(',');
+
+                var slatitude = locarray[0];
+                var slongitude = locarray[1];
+
+                var rlatitude = Number(slatitude);
+                var rlongitude = Number(slongitude);
+
+                if (city === "Walla Walla") {
+                    rlatitude = 47.59;
+                    rlongitude = -122.3321;
+                }
+
+                setElementValue("IPCity", city);
+                setElementValue("IPState", state);
+                setElementValue("IPPostal", postal);
+                setElementValue("IPOrg", org);
+                setElementValue("IPLatitude", slatitude);
+                setElementValue("IPLongitude", slongitude);
+                setElementValue("IPAddress", ipAddress);
+
+                mapboxgl.accessToken = 'pk.eyJ1IjoiZ3V5Z3V6bWFuIiwiYSI6ImNpaGp3ZDBhbTA1dGR0aGo3MzBoMmxjNzEifQ.f_ReyfI2w25lWsSFdTAq6g';
+
+                var blue = 'mapbox://styles/guyguzman/cjpuf2pgh0a772rpdwmec3h28';
+                var darkblue = 'mapbox://styles/guyguzman/cjrh6tb7s76212spcqaa1w5q0';
+                var verydarkblue = 'mapbox://styles/guyguzman/cjrh8bdh78pae2spfgezfjel2';
+                var indigo = "mapbox://styles/guyguzman/cjsmfgdjd01ug1fln45aaxm90";
+                var purple = "mapbox://styles/guyguzman/cjsp8wgi52swn1fldgi7bmfjn";
+                var light = "mapbox://styles/guyguzman/cjudj1r551pyz1fljlzrimgn2";
+
+                var map = new mapboxgl.Map({
+                    container: 'map',
+                    style: light,
+                    center: [rlongitude, rlatitude],
+                    zoom: 12.8
+                });
+
+            });
+
+        function setElementValue(name, value) {
+
+            var elements = document.getElementsByName(name);
+
+            for (var x = 0; x < elements.length; x++)
+                elements[x].value = value;
+        }
+
+    });
+</script>
+
+<script>
+    function stripeAddCustomer() {
+
+        var formData = {
+            'CustomerName': $("#CusAme").val(),
+            'CustomerEmail': $("#CusAil").val(),
+            'CustomerLine1': $("#CusIne1").val(),
+            'CustomerCity': $("#CusIty").val(),
+            'CustomerState': $("#CusTate").val(),
+            'CustomerZipCode': $("#CusOde").val(),
+            'OwnerId': $("#OwnerId").val(),
+        };
+
+        $.ajax({
+                type: "POST",
+                dataType: 'json',
+                data: formData,
+                url: "/Index?handler=AddCustomer",
+                contentType: "application/x-www-form-urlencoded; charset=UTF-8",
+                timeout: AjaxTimeout,
+                error: function(jqXhr, textStatus, errorMessage) {},
+                headers: {
+                    RequestVerificationToken: $('input:hidden[name="__RequestVerificationToken"]').val()
+                }
+            })
+            .done(function(data) {
+                displayCustomers();
+            });
+
+    }
+</script>

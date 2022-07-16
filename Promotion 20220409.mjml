@@ -1,0 +1,60 @@
+<mjml>
+  <mj-head>
+    <mj-title>EasyDMR Feature Update</mj-title>
+    <mj-preview>Pre-header Text</mj-preview>
+    <mj-attributes>
+      <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700" />
+      <mj-all font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-all>
+      <mj-text font-weight="400" font-size="16px" color="#000000" line-height="24px" font-family="Roboto, Helvetica, Arial, sans-serif"></mj-text>
+    </mj-attributes>
+    <mj-style inline="inline">
+      .body-section {
+        -webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+        -moz-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+        box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .text-link {
+        color: #5e6ebf
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .footer-link {
+        color: #888888
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#dfe0e5" width="600px">
+    <mj-section full-width="full-width" background-color="#040B4F" padding-bottom="0">
+      <mj-column width="100%">
+        <mj-image src="https://ccartuse.sirv.com/Images/EmailHeaderWhiteText.png" alt="" />
+      </mj-column>
+    </mj-section>
+    <mj-wrapper padding-top="0" padding-bottom="0" css-class="body-section">
+      <mj-section background-color="#ffffff">
+        <mj-column width="100%">
+          <mj-text align="center" font-size="20px" font-weight="900" color="#626369">Download Documents</mj-text>
+          <mj-text color="#637381" font-size="16px" align="left">A drivers documents (in PDF format) can be downloaded for your records and printing. Right-click
+            on the three vertical dots in the upper right-hand corner of the document viewer. Select DOWNLOAD.</mj-text>
+          <mj-text color="#637381" font-size="16px" align="left">The documents can also be zoomed and panned from this screen.</mj-text>
+        </mj-column>
+      </mj-section>
+
+       <mj-section background-color="#ffffff">
+                <mj-column width="100%">
+          <mj-image src="https://ccartuse.sirv.com/Images/DMR_103.png" width="300px" alt="" />
+           <mj-divider border-width="1px" border-style="dashed" border-color="lightgrey" />         <mj-button background-color="#e91e63" align="center" color="#ffffff" font-family="Roboto" font-size="17px" font-weight="100" href="https://easydmr.com" width="300px"> SIGN IN </mj-button>
+        </mj-column>
+        </mj-section>
+      <mj-section background-color="#ffffff">
+        <mj-column width="100%" padding="0">
+          <mj-text color="#445566" font-size="11px" align="center" line-height="16px"> This is a message to update EasyDMR users with feature tips and new features.</mj-text>
+          <mj-text color="#445566" font-size="11px" align="center" line-height="16px"> &copy; EasyDMR </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-wrapper full-width="full-width">
+    </mj-wrapper>
+  </mj-body>
+</mjml>
