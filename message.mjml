@@ -1,0 +1,113 @@
+<mjml>
+  <mj-head>
+    <mj-title>Deliver Driver Reimbursement</mj-title>
+    <!-- <mj-preview>Newsletter</mj-preview> -->
+    <mj-attributes>
+      <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700" />
+      <mj-font name="Roboto Mono" href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200;400" />
+      <mj-all font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-all>
+      <mj-text font-weight="400" font-size="12px" color="#000000" line-height="24px" font-family="Roboto, Helvetica, Arial, sans-serif"></mj-text>
+      <mj-class name="green" color="#ff0000" font-size="40px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      .body-section {
+        -webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+        -moz-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+        box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .text-link {
+        color: #5e6ebf
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .footer-link {
+        color: #888888
+      }
+    </mj-style>
+
+
+    <mj-style inline="inline">
+      .gasItem {
+        width: 100px;
+        font-size: 22px;
+        line-height: 28px;
+        color: #404040;
+        font-size: 22px;
+        text-align: center;
+        font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+      }
+    </mj-style>
+
+    <mj-style inline="inline">
+      .gasTitle {
+        font-size: 20px;
+        line-height: 22px;
+        color: #ff5252;
+        padding-bottom: 22px;
+        text-align: center;
+        font-weight: bold;
+        line-height: 24px;
+        font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+        width: 100px;
+      }
+    </mj-style>
+
+    </mj-style>
+    <mj-style inline="inline">
+      .body-section {
+        -webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+        -moz-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+        box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .text-link {
+        color: #5e6ebf
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .footer-link {
+        color: #888888
+      }
+    </mj-style>
+
+  </mj-head>
+  <mj-body background-color="#dfe0e5">
+
+    <mj-wrapper padding-top="0" padding-bottom="0" css-class="body-section">
+
+      <mj-section background-color="#f8fafc" padding-top="0" padding-bottom="0">
+        <mj-column width="100%" background-color="#f8fafc">
+          <mj-image src="https://ccartuse.sirv.com/Images/ScooterBlueGadientBackgroundLogoSmall.png" padding-top="0px" padding-left="0px" padding-right="0px" padding-bottom="0px" alt="" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#f8fafc" padding="20px 0px 0px 10px">
+        <mj-column width="100%">
+          <mj-text align="center" line-height="30px" font-size="18px" font-weight="900" color="#ff5252">{0}</mj-text>
+          <mj-text align="left" line-height="20px" font-size="16px" font-weight="400" color="#404040">
+            {1}
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#f8fafc" padding="0px">
+        <mj-column>
+          <mj-divider border-color="#ff5252" border-style="solid" border-width="1px" padding-left="100px" padding-right="100px" padding-bottom="30px" padding-top="40px"></mj-divider>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#f8fafc">
+        <mj-column width="100%" padding="0">
+          <mj-text color="#445566" font-size="18px" align="center" line-height="18px"><a href="https://easydmr.com">easydmr.com</a> </mj-text>
+          <mj-text color="#445566" font-size="18px" align="center" line-height="18px"><a href="mailto: support@easydmr.com">support@easydmr.com</a> </mj-text>
+          <mj-text color="#445566" font-size="12px" align="center" line-height="18px"> &copy; EasyDMR </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-wrapper full-width="full-width">
+    </mj-wrapper>
+  </mj-body>
+</mjml>
