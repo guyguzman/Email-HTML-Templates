@@ -140,7 +140,7 @@
           <mj-text padding="0px" align="center" font-size="16px" font-weight="500" color="#ff5252">
             <table style="width:100%;background-color:#f8fafc">
               <tr>
-                <td style="text-align:center;font-size:20px;font-weight:900;color:#808080;">Sep 5, 2022</td>
+                <td style="text-align:center;font-size:20px;font-weight:900;color:#808080;">Sep 19, 2022</td>
               </tr>
               <tr>
                 <td style="text-align:center;color:#808080;font-size:14px">Regular Grade</td>
@@ -163,310 +163,312 @@
 
               <tr>
                 <td class="gasItem">AK</td>
-                <td class="gasItem">4.855</td>
-                <td class="gasItem">4.799</td>
-                <td class="gasItem" style="color: #20d651">-05.6</td>
+                <td class="gasItem">4.689</td>
+                <td class="gasItem">4.654</td>
+                <td class="gasItem" style="color: #20d651">-03.5</td>
               </tr>
               <tr>
                 <td class="gasItem">AL</td>
-                <td class="gasItem">3.448</td>
-                <td class="gasItem">3.402</td>
-                <td class="gasItem" style="color: #20d651">-04.6</td>
-              </tr>
-              <tr>
-                <td class="gasItem">AR</td>
-                <td class="gasItem">3.365</td>
-                <td class="gasItem">3.291</td>
-                <td class="gasItem" style="color: #20d651">-07.4</td>
-              </tr>
-              <tr>
-                <td class="gasItem">AZ</td>
-                <td class="gasItem">4.009</td>
-                <td class="gasItem">3.971</td>
-                <td class="gasItem" style="color: #20d651">-03.8</td>
-              </tr>
-              <tr>
-                <td class="gasItem">CA</td>
-                <td class="gasItem">5.278</td>
-                <td class="gasItem">5.254</td>
+                <td class="gasItem">3.276</td>
+                <td class="gasItem">3.252</td>
                 <td class="gasItem" style="color: #20d651">-02.4</td>
               </tr>
               <tr>
+                <td class="gasItem">AR</td>
+                <td class="gasItem">3.174</td>
+                <td class="gasItem">3.196</td>
+                <td class="gasItem" style="color: #ff5252">+02.2</td>
+              </tr>
+              <tr>
+                <td class="gasItem">AZ</td>
+                <td class="gasItem">4.046</td>
+                <td class="gasItem">3.978</td>
+                <td class="gasItem" style="color: #20d651">-06.8</td>
+              </tr>
+              <tr>
+                <td class="gasItem">CA</td>
+                <td class="gasItem">5.434</td>
+                <td class="gasItem">5.444</td>
+                <td class="gasItem" style="color: #ff5252">+01.0</td>
+              </tr>
+              <tr>
                 <td class="gasItem">CO</td>
-                <td class="gasItem">3.817</td>
-                <td class="gasItem">3.744</td>
-                <td class="gasItem" style="color: #20d651">-07.3</td>
+                <td class="gasItem">3.671</td>
+                <td class="gasItem">3.670</td>
+                <td class="gasItem" style="color: #20d651">-00.1</td>
               </tr>
               <tr>
                 <td class="gasItem">CT</td>
-                <td class="gasItem">3.893</td>
-                <td class="gasItem">3.765</td>
-                <td class="gasItem" style="color: #20d651">-12.8</td>
+                <td class="gasItem">3.544</td>
+                <td class="gasItem">3.470</td>
+                <td class="gasItem" style="color: #20d651">-07.4</td>
               </tr>
               <tr>
                 <td class="gasItem">DC</td>
-                <td class="gasItem">4.070</td>
-                <td class="gasItem">3.928</td>
-                <td class="gasItem" style="color: #20d651">-14.2</td>
+                <td class="gasItem">3.843</td>
+                <td class="gasItem">3.830</td>
+                <td class="gasItem" style="color: #20d651">-01.3</td>
               </tr>
               <tr>
                 <td class="gasItem">DE</td>
-                <td class="gasItem">3.701</td>
-                <td class="gasItem">3.584</td>
-                <td class="gasItem" style="color: #20d651">-11.7</td>
+                <td class="gasItem">3.381</td>
+                <td class="gasItem">3.343</td>
+                <td class="gasItem" style="color: #20d651">-03.8</td>
               </tr>
               <tr>
                 <td class="gasItem">FL</td>
-                <td class="gasItem">3.613</td>
-                <td class="gasItem">3.545</td>
-                <td class="gasItem" style="color: #20d651">-06.8</td>
+                <td class="gasItem">3.436</td>
+                <td class="gasItem">3.415</td>
+                <td class="gasItem" style="color: #20d651">-02.1</td>
               </tr>
               <tr>
                 <td class="gasItem">GA</td>
-                <td class="gasItem">3.388</td>
-                <td class="gasItem">3.343</td>
-                <td class="gasItem" style="color: #20d651">-04.5</td>
+                <td class="gasItem">3.223</td>
+                <td class="gasItem">3.181</td>
+                <td class="gasItem" style="color: #20d651">-04.2</td>
               </tr>
               <tr>
                 <td class="gasItem">HI</td>
-                <td class="gasItem">5.312</td>
-                <td class="gasItem">5.301</td>
-                <td class="gasItem" style="color: #20d651">-01.1</td>
+                <td class="gasItem">5.278</td>
+                <td class="gasItem">5.259</td>
+                <td class="gasItem" style="color: #20d651">-01.9</td>
               </tr>
               <tr>
                 <td class="gasItem">IA</td>
-                <td class="gasItem">3.533</td>
-                <td class="gasItem">3.463</td>
-                <td class="gasItem" style="color: #20d651">-07.0</td>
+                <td class="gasItem">3.462</td>
+                <td class="gasItem">3.466</td>
+                <td class="gasItem" style="color: #ff5252">+00.4</td>
               </tr>
               <tr>
                 <td class="gasItem">ID</td>
-                <td class="gasItem">4.593</td>
-                <td class="gasItem">4.530</td>
-                <td class="gasItem" style="color: #20d651">-06.3</td>
-              </tr>
-              <tr>
-                <td class="gasItem">IL</td>
-                <td class="gasItem">4.170</td>
-                <td class="gasItem">4.133</td>
-                <td class="gasItem" style="color: #20d651">-03.7</td>
-              </tr>
-              <tr>
-                <td class="gasItem">IN</td>
-                <td class="gasItem">3.819</td>
-                <td class="gasItem">3.927</td>
-                <td class="gasItem" style="color: #ff5252">+10.8</td>
-              </tr>
-              <tr>
-                <td class="gasItem">KS</td>
-                <td class="gasItem">3.543</td>
-                <td class="gasItem">3.479</td>
-                <td class="gasItem" style="color: #20d651">-06.4</td>
-              </tr>
-              <tr>
-                <td class="gasItem">KY</td>
-                <td class="gasItem">3.465</td>
-                <td class="gasItem">3.445</td>
-                <td class="gasItem" style="color: #20d651">-02.0</td>
-              </tr>
-              <tr>
-                <td class="gasItem">LA</td>
-                <td class="gasItem">3.410</td>
-                <td class="gasItem">3.337</td>
-                <td class="gasItem" style="color: #20d651">-07.3</td>
-              </tr>
-              <tr>
-                <td class="gasItem">MA</td>
-                <td class="gasItem">4.070</td>
-                <td class="gasItem">3.950</td>
-                <td class="gasItem" style="color: #20d651">-12.0</td>
-              </tr>
-              <tr>
-                <td class="gasItem">MD</td>
-                <td class="gasItem">3.795</td>
-                <td class="gasItem">3.681</td>
-                <td class="gasItem" style="color: #20d651">-11.4</td>
-              </tr>
-              <tr>
-                <td class="gasItem">ME</td>
-                <td class="gasItem">4.027</td>
-                <td class="gasItem">3.898</td>
-                <td class="gasItem" style="color: #20d651">-12.9</td>
-              </tr>
-              <tr>
-                <td class="gasItem">MI</td>
-                <td class="gasItem">3.834</td>
-                <td class="gasItem">3.835</td>
-                <td class="gasItem" style="color: #ff5252">+00.1</td>
-              </tr>
-              <tr>
-                <td class="gasItem">MN</td>
-                <td class="gasItem">3.792</td>
-                <td class="gasItem">3.724</td>
-                <td class="gasItem" style="color: #20d651">-06.8</td>
-              </tr>
-              <tr>
-                <td class="gasItem">MO</td>
-                <td class="gasItem">3.467</td>
-                <td class="gasItem">3.395</td>
-                <td class="gasItem" style="color: #20d651">-07.2</td>
-              </tr>
-              <tr>
-                <td class="gasItem">MS</td>
-                <td class="gasItem">3.379</td>
-                <td class="gasItem">3.311</td>
-                <td class="gasItem" style="color: #20d651">-06.8</td>
-              </tr>
-              <tr>
-                <td class="gasItem">MT</td>
-                <td class="gasItem">4.120</td>
-                <td class="gasItem">4.019</td>
-                <td class="gasItem" style="color: #20d651">-10.1</td>
-              </tr>
-              <tr>
-                <td class="gasItem">NC</td>
-                <td class="gasItem">3.552</td>
-                <td class="gasItem">3.509</td>
-                <td class="gasItem" style="color: #20d651">-04.3</td>
-              </tr>
-              <tr>
-                <td class="gasItem">ND</td>
-                <td class="gasItem">3.807</td>
-                <td class="gasItem">3.709</td>
-                <td class="gasItem" style="color: #20d651">-09.8</td>
-              </tr>
-              <tr>
-                <td class="gasItem">NE</td>
-                <td class="gasItem">3.640</td>
-                <td class="gasItem">3.581</td>
-                <td class="gasItem" style="color: #20d651">-05.9</td>
-              </tr>
-              <tr>
-                <td class="gasItem">NH</td>
-                <td class="gasItem">3.955</td>
-                <td class="gasItem">3.847</td>
-                <td class="gasItem" style="color: #20d651">-10.8</td>
-              </tr>
-              <tr>
-                <td class="gasItem">NJ</td>
-                <td class="gasItem">3.960</td>
-                <td class="gasItem">3.848</td>
-                <td class="gasItem" style="color: #20d651">-11.2</td>
-              </tr>
-              <tr>
-                <td class="gasItem">NM</td>
-                <td class="gasItem">3.747</td>
-                <td class="gasItem">3.653</td>
-                <td class="gasItem" style="color: #20d651">-09.4</td>
-              </tr>
-              <tr>
-                <td class="gasItem">NV</td>
-                <td class="gasItem">4.870</td>
-                <td class="gasItem">4.845</td>
-                <td class="gasItem" style="color: #20d651">-02.5</td>
-              </tr>
-              <tr>
-                <td class="gasItem">NY</td>
-                <td class="gasItem">4.150</td>
-                <td class="gasItem">4.034</td>
-                <td class="gasItem" style="color: #20d651">-11.6</td>
-              </tr>
-              <tr>
-                <td class="gasItem">OH</td>
-                <td class="gasItem">3.554</td>
-                <td class="gasItem">3.649</td>
-                <td class="gasItem" style="color: #ff5252">+09.5</td>
-              </tr>
-              <tr>
-                <td class="gasItem">OK</td>
-                <td class="gasItem">3.483</td>
-                <td class="gasItem">3.398</td>
-                <td class="gasItem" style="color: #20d651">-08.5</td>
-              </tr>
-              <tr>
-                <td class="gasItem">OR</td>
-                <td class="gasItem">4.788</td>
-                <td class="gasItem">4.724</td>
-                <td class="gasItem" style="color: #20d651">-06.4</td>
-              </tr>
-              <tr>
-                <td class="gasItem">PA</td>
-                <td class="gasItem">4.142</td>
-                <td class="gasItem">4.011</td>
-                <td class="gasItem" style="color: #20d651">-13.1</td>
-              </tr>
-              <tr>
-                <td class="gasItem">RI</td>
-                <td class="gasItem">3.966</td>
-                <td class="gasItem">3.839</td>
-                <td class="gasItem" style="color: #20d651">-12.7</td>
-              </tr>
-              <tr>
-                <td class="gasItem">SC</td>
-                <td class="gasItem">3.457</td>
-                <td class="gasItem">3.421</td>
+                <td class="gasItem">4.455</td>
+                <td class="gasItem">4.419</td>
                 <td class="gasItem" style="color: #20d651">-03.6</td>
               </tr>
               <tr>
-                <td class="gasItem">SD</td>
-                <td class="gasItem">3.790</td>
-                <td class="gasItem">3.761</td>
+                <td class="gasItem">IL</td>
+                <td class="gasItem">3.977</td>
+                <td class="gasItem">3.922</td>
+                <td class="gasItem" style="color: #20d651">-05.5</td>
+              </tr>
+              <tr>
+                <td class="gasItem">IN</td>
+                <td class="gasItem">3.751</td>
+                <td class="gasItem">3.675</td>
+                <td class="gasItem" style="color: #20d651">-07.6</td>
+              </tr>
+              <tr>
+                <td class="gasItem">KS</td>
+                <td class="gasItem">3.399</td>
+                <td class="gasItem">3.406</td>
+                <td class="gasItem" style="color: #ff5252">+00.7</td>
+              </tr>
+              <tr>
+                <td class="gasItem">KY</td>
+                <td class="gasItem">3.326</td>
+                <td class="gasItem">3.284</td>
+                <td class="gasItem" style="color: #20d651">-04.2</td>
+              </tr>
+              <tr>
+                <td class="gasItem">LA</td>
+                <td class="gasItem">3.179</td>
+                <td class="gasItem">3.148</td>
+                <td class="gasItem" style="color: #20d651">-03.1</td>
+              </tr>
+              <tr>
+                <td class="gasItem">MA</td>
+                <td class="gasItem">3.764</td>
+                <td class="gasItem">3.692</td>
+                <td class="gasItem" style="color: #20d651">-07.2</td>
+              </tr>
+              <tr>
+                <td class="gasItem">MD</td>
+                <td class="gasItem">3.485</td>
+                <td class="gasItem">3.459</td>
+                <td class="gasItem" style="color: #20d651">-02.6</td>
+              </tr>
+              <tr>
+                <td class="gasItem">ME</td>
+                <td class="gasItem">3.746</td>
+                <td class="gasItem">3.687</td>
+                <td class="gasItem" style="color: #20d651">-05.9</td>
+              </tr>
+              <tr>
+                <td class="gasItem">MI</td>
+                <td class="gasItem">3.825</td>
+                <td class="gasItem">3.806</td>
+                <td class="gasItem" style="color: #20d651">-01.9</td>
+              </tr>
+              <tr>
+                <td class="gasItem">MN</td>
+                <td class="gasItem">3.656</td>
+                <td class="gasItem">3.633</td>
+                <td class="gasItem" style="color: #20d651">-02.3</td>
+              </tr>
+              <tr>
+                <td class="gasItem">MO</td>
+                <td class="gasItem">3.324</td>
+                <td class="gasItem">3.326</td>
+                <td class="gasItem" style="color: #ff5252">+00.2</td>
+              </tr>
+              <tr>
+                <td class="gasItem">MS</td>
+                <td class="gasItem">3.142</td>
+                <td class="gasItem">3.112</td>
+                <td class="gasItem" style="color: #20d651">-03.0</td>
+              </tr>
+              <tr>
+                <td class="gasItem">MT</td>
+                <td class="gasItem">3.937</td>
+                <td class="gasItem">3.929</td>
+                <td class="gasItem" style="color: #20d651">-00.8</td>
+              </tr>
+              <tr>
+                <td class="gasItem">NC</td>
+                <td class="gasItem">3.392</td>
+                <td class="gasItem">3.365</td>
+                <td class="gasItem" style="color: #20d651">-02.7</td>
+              </tr>
+              <tr>
+                <td class="gasItem">ND</td>
+                <td class="gasItem">3.659</td>
+                <td class="gasItem">3.646</td>
+                <td class="gasItem" style="color: #20d651">-01.3</td>
+              </tr>
+              <tr>
+                <td class="gasItem">NE</td>
+                <td class="gasItem">3.519</td>
+                <td class="gasItem">3.510</td>
+                <td class="gasItem" style="color: #20d651">-00.9</td>
+              </tr>
+              <tr>
+                <td class="gasItem">NH</td>
+                <td class="gasItem">3.674</td>
+                <td class="gasItem">3.607</td>
+                <td class="gasItem" style="color: #20d651">-06.7</td>
+              </tr>
+              <tr>
+                <td class="gasItem">NJ</td>
+                <td class="gasItem">3.664</td>
+                <td class="gasItem">3.609</td>
+                <td class="gasItem" style="color: #20d651">-05.5</td>
+              </tr>
+              <tr>
+                <td class="gasItem">NM</td>
+                <td class="gasItem">3.571</td>
+                <td class="gasItem">3.561</td>
+                <td class="gasItem" style="color: #20d651">-01.0</td>
+              </tr>
+              <tr>
+                <td class="gasItem">NV</td>
+                <td class="gasItem">4.930</td>
+                <td class="gasItem">4.919</td>
+                <td class="gasItem" style="color: #20d651">-01.1</td>
+              </tr>
+              <tr>
+                <td class="gasItem">NY</td>
+                <td class="gasItem">3.858</td>
+                <td class="gasItem">3.788</td>
+                <td class="gasItem" style="color: #20d651">-07.0</td>
+              </tr>
+              <tr>
+                <td class="gasItem">OH</td>
+                <td class="gasItem">3.492</td>
+                <td class="gasItem">3.420</td>
+                <td class="gasItem" style="color: #20d651">-07.2</td>
+              </tr>
+              <tr>
+                <td class="gasItem">OK</td>
+                <td class="gasItem">3.329</td>
+                <td class="gasItem">3.363</td>
+                <td class="gasItem" style="color: #ff5252">+03.4</td>
+              </tr>
+              <tr>
+                <td class="gasItem">OR</td>
+                <td class="gasItem">4.678</td>
+                <td class="gasItem">4.648</td>
+                <td class="gasItem" style="color: #20d651">-03.0</td>
+              </tr>
+              <tr>
+                <td class="gasItem">PA</td>
+                <td class="gasItem">3.900</td>
+                <td class="gasItem">3.860</td>
+                <td class="gasItem" style="color: #20d651">-04.0</td>
+              </tr>
+              <tr>
+                <td class="gasItem">RI</td>
+                <td class="gasItem">3.659</td>
+                <td class="gasItem">3.572</td>
+                <td class="gasItem" style="color: #20d651">-08.7</td>
+              </tr>
+              <tr>
+                <td class="gasItem">SC</td>
+                <td class="gasItem">3.295</td>
+                <td class="gasItem">3.266</td>
                 <td class="gasItem" style="color: #20d651">-02.9</td>
               </tr>
               <tr>
+                <td class="gasItem">SD</td>
+                <td class="gasItem">3.685</td>
+                <td class="gasItem">3.664</td>
+                <td class="gasItem" style="color: #20d651">-02.1</td>
+              </tr>
+              <tr>
                 <td class="gasItem">TN</td>
-                <td class="gasItem">3.449</td>
-                <td class="gasItem">3.393</td>
-                <td class="gasItem" style="color: #20d651">-05.6</td>
+                <td class="gasItem">3.237</td>
+                <td class="gasItem">3.233</td>
+                <td class="gasItem" style="color: #20d651">-00.4</td>
               </tr>
               <tr>
                 <td class="gasItem">TX</td>
-                <td class="gasItem">3.380</td>
-                <td class="gasItem">3.296</td>
-                <td class="gasItem" style="color: #20d651">-08.4</td>
+                <td class="gasItem">3.170</td>
+                <td class="gasItem">3.178</td>
+                <td class="gasItem" style="color: #ff5252">+00.8</td>
               </tr>
               <tr>
                 <td class="gasItem">UT</td>
-                <td class="gasItem">4.477</td>
-                <td class="gasItem">4.398</td>
-                <td class="gasItem" style="color: #20d651">-07.9</td>
+                <td class="gasItem">4.289</td>
+                <td class="gasItem">4.248</td>
+                <td class="gasItem" style="color: #20d651">-04.1</td>
               </tr>
               <tr>
                 <td class="gasItem">VA</td>
-                <td class="gasItem">3.644</td>
-                <td class="gasItem">3.581</td>
-                <td class="gasItem" style="color: #20d651">-06.3</td>
+                <td class="gasItem">3.454</td>
+                <td class="gasItem">3.409</td>
+                <td class="gasItem" style="color: #20d651">-04.5</td>
               </tr>
               <tr>
                 <td class="gasItem">VT</td>
-                <td class="gasItem">4.134</td>
-                <td class="gasItem">3.983</td>
-                <td class="gasItem" style="color: #20d651">-15.1</td>
+                <td class="gasItem">3.865</td>
+                <td class="gasItem">3.831</td>
+                <td class="gasItem" style="color: #20d651">-03.4</td>
               </tr>
               <tr>
                 <td class="gasItem">WA</td>
-                <td class="gasItem">4.741</td>
-                <td class="gasItem">4.689</td>
-                <td class="gasItem" style="color: #20d651">-05.2</td>
+                <td class="gasItem">4.648</td>
+                <td class="gasItem">4.629</td>
+                <td class="gasItem" style="color: #20d651">-01.9</td>
               </tr>
               <tr>
                 <td class="gasItem">WI</td>
-                <td class="gasItem">3.615</td>
-                <td class="gasItem">3.590</td>
-                <td class="gasItem" style="color: #20d651">-02.5</td>
+                <td class="gasItem">3.448</td>
+                <td class="gasItem">3.413</td>
+                <td class="gasItem" style="color: #20d651">-03.5</td>
               </tr>
               <tr>
                 <td class="gasItem">WV</td>
-                <td class="gasItem">3.803</td>
-                <td class="gasItem">3.743</td>
-                <td class="gasItem" style="color: #20d651">-06.0</td>
+                <td class="gasItem">3.631</td>
+                <td class="gasItem">3.555</td>
+                <td class="gasItem" style="color: #20d651">-07.6</td>
               </tr>
               <tr>
                 <td class="gasItem">WY</td>
-                <td class="gasItem">3.974</td>
-                <td class="gasItem">3.892</td>
-                <td class="gasItem" style="color: #20d651">-08.2</td>
+                <td class="gasItem">3.802</td>
+                <td class="gasItem">3.799</td>
+                <td class="gasItem" style="color: #20d651">-00.3</td>
               </tr>
+
+
 
 
 
